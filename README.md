@@ -45,7 +45,7 @@ A react component for basic color selection.
 ```javascript
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import Canvas from "jw-color-picker";
+import ColorPicker from "jw-color-picker";
 
 class Example extends Component {
   constructor(props) {

@@ -1,6 +1,6 @@
 {
   "name": "jw-color-picker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A react component for basic color selection.",
   "author": "john wong <johnwongwwc@gmail.com>",
   "homepage": "https://waichungwong.github.io/jw-color-picker/build",
