@@ -13,7 +13,7 @@ class Demo extends Component {
     this.state = {
       top: 50,
       left: 50,
-      color: { r: 125, g: 125, b: 125, a: 1 }
+      color: { r: 90, g: 220, b: 100, a: 1 }
     };
 
     this.dragHandler = this.dragHandler.bind(this);
